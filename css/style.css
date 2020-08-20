@@ -117,8 +117,7 @@ text-decoration: line-through;
 margin: 13px 652px 0px 334px;
 }
 .knopka{
-  /* Style for "Full Story" */
-width: 400px;
+width: px;
 height: 44px;
 color: #ffffff;
 font-family: "Arial";
@@ -126,7 +125,6 @@ font-size: 14px;
 font-weight: 400;
 line-height: 40px;
 text-transform: uppercase;
-/* Text style for "Full Story" */
 letter-spacing: 2.8px;
 margin: 59px 600px 0px 334px;
 border: 2px solid #80b7b3; 
